@@ -1,0 +1,261 @@
+[submodule "acl"]
+	path = acl
+	url = https://github.com/shedbuilt/acl.git
+[submodule "alarm-fake-hwclock"]
+	path = alarm-fake-hwclock
+	url = https://github.com/shedbuilt/alarm-fake-hwclock.git
+[submodule "attr"]
+	path = attr
+	url = https://github.com/shedbuilt/attr.git
+[submodule "autoconf"]
+	path = autoconf
+	url = https://github.com/shedbuilt/autoconf.git
+[submodule "automake"]
+	path = automake
+	url = https://github.com/shedbuilt/automake.git
+[submodule "bash"]
+	path = bash
+	url = https://github.com/shedbuilt/bash.git
+[submodule "bc"]
+	path = bc
+	url = https://github.com/shedbuilt/bc.git
+[submodule "binutils"]
+	path = binutils
+	url = https://github.com/shedbuilt/binutils.git
+[submodule "bison"]
+	path = bison
+	url = https://github.com/shedbuilt/bison.git
+[submodule "bzip2"]
+	path = bzip2
+	url = https://github.com/shedbuilt/bzip2.git
+[submodule "ca-certs"]
+	path = ca-certs
+	url = https://github.com/shedbuilt/ca-certs.git
+[submodule "coreutils"]
+	path = coreutils
+	url = https://github.com/shedbuilt/coreutils.git
+[submodule "curl"]
+	path = curl
+	url = https://github.com/shedbuilt/curl.git
+[submodule "dbus"]
+	path = dbus
+	url = https://github.com/shedbuilt/dbus.git
+[submodule "diffutils"]
+	path = diffutils
+	url = https://github.com/shedbuilt/diffutils.git
+[submodule "e2fsprogs"]
+	path = e2fsprogs
+	url = https://github.com/shedbuilt/e2fsprogs.git
+[submodule "expat"]
+	path = expat
+	url = https://github.com/shedbuilt/expat.git
+[submodule "file"]
+	path = file
+	url = https://github.com/shedbuilt/file.git
+[submodule "findutils"]
+	path = findutils
+	url = https://github.com/shedbuilt/findutils.git
+[submodule "flex"]
+	path = flex
+	url = https://github.com/shedbuilt/flex.git
+[submodule "gawk"]
+	path = gawk
+	url = https://github.com/shedbuilt/gawk.git
+[submodule "gcc"]
+	path = gcc
+	url = https://github.com/shedbuilt/gcc.git
+[submodule "gdbm"]
+	path = gdbm
+	url = https://github.com/shedbuilt/gdbm.git
+[submodule "gettext"]
+	path = gettext
+	url = https://github.com/shedbuilt/gettext.git
+[submodule "git"]
+	path = git
+	url = https://github.com/shedbuilt/git.git
+[submodule "glibc"]
+	path = glibc
+	url = https://github.com/shedbuilt/glibc.git
+[submodule "gmp"]
+	path = gmp
+	url = https://github.com/shedbuilt/gmp.git
+[submodule "gperf"]
+	path = gperf
+	url = https://github.com/shedbuilt/gperf.git
+[submodule "grep"]
+	path = grep
+	url = https://github.com/shedbuilt/grep.git
+[submodule "groff"]
+	path = groff
+	url = https://github.com/shedbuilt/groff.git
+[submodule "gzip"]
+	path = gzip
+	url = https://github.com/shedbuilt/gzip.git
+[submodule "iana-etc"]
+	path = iana-etc
+	url = https://github.com/shedbuilt/iana-etc.git
+[submodule "inetutils"]
+	path = inetutils
+	url = https://github.com/shedbuilt/inetutils.git
+[submodule "intltool"]
+	path = intltool
+	url = https://github.com/shedbuilt/intltool.git
+[submodule "iproute2"]
+	path = iproute2
+	url = https://github.com/shedbuilt/iproute2.git
+[submodule "kbd"]
+	path = kbd
+	url = https://github.com/shedbuilt/kbd.git
+[submodule "kmod"]
+	path = kmod
+	url = https://github.com/shedbuilt/kmod.git
+[submodule "less"]
+	path = less
+	url = https://github.com/shedbuilt/less.git
+[submodule "libcap"]
+	path = libcap
+	url = https://github.com/shedbuilt/libcap.git
+[submodule "libfdt"]
+	path = libfdt
+	url = https://github.com/shedbuilt/libfdt.git
+[submodule "libffi"]
+	path = libffi
+	url = https://github.com/shedbuilt/libffi.git
+[submodule "libpipeline"]
+	path = libpipeline
+	url = https://github.com/shedbuilt/libpipeline.git
+[submodule "libtool"]
+	path = libtool
+	url = https://github.com/shedbuilt/libtool.git
+[submodule "libusb"]
+	path = libusb
+	url = https://github.com/shedbuilt/libusb.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/shedbuilt/linux.git
+[submodule "linux-headers"]
+	path = linux-headers
+	url = https://github.com/shedbuilt/linux-headers.git
+[submodule "m4"]
+	path = m4
+	url = https://github.com/shedbuilt/m4.git
+[submodule "make"]
+	path = make
+	url = https://github.com/shedbuilt/make.git
+[submodule "man-db"]
+	path = man-db
+	url = https://github.com/shedbuilt/man-db.git
+[submodule "man-pages"]
+	path = man-pages
+	url = https://github.com/shedbuilt/man-pages.git
+[submodule "mpc"]
+	path = mpc
+	url = https://github.com/shedbuilt/mpc.git
+[submodule "mpfr"]
+	path = mpfr
+	url = https://github.com/shedbuilt/mpfr.git
+[submodule "nano"]
+	path = nano
+	url = https://github.com/shedbuilt/nano.git
+[submodule "ncurses"]
+	path = ncurses
+	url = https://github.com/shedbuilt/ncurses.git
+[submodule "openssh"]
+	path = openssh
+	url = https://github.com/shedbuilt/openssh.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/shedbuilt/openssl.git
+[submodule "patch"]
+	path = patch
+	url = https://github.com/shedbuilt/patch.git
+[submodule "pcre"]
+	path = pcre
+	url = https://github.com/shedbuilt/pcre.git
+[submodule "perl"]
+	path = perl
+	url = https://github.com/shedbuilt/perl.git
+[submodule "perl_error"]
+	path = perl_error
+	url = https://github.com/shedbuilt/perl_error.git
+[submodule "perl_xml-parser"]
+	path = perl_xml-parser
+	url = https://github.com/shedbuilt/perl_xml-parser.git
+[submodule "pkg-config"]
+	path = pkg-config
+	url = https://github.com/shedbuilt/pkg-config.git
+[submodule "procps-ng"]
+	path = procps-ng
+	url = https://github.com/shedbuilt/procps-ng.git
+[submodule "psmisc"]
+	path = psmisc
+	url = https://github.com/shedbuilt/psmisc.git
+[submodule "python"]
+	path = python
+	url = https://github.com/shedbuilt/python.git
+[submodule "python3"]
+	path = python3
+	url = https://github.com/shedbuilt/python3.git
+[submodule "readline"]
+	path = readline
+	url = https://github.com/shedbuilt/readline.git
+[submodule "screen"]
+	path = screen
+	url = https://github.com/shedbuilt/screen.git
+[submodule "sed"]
+	path = sed
+	url = https://github.com/shedbuilt/sed.git
+[submodule "shadow"]
+	path = shadow
+	url = https://github.com/shedbuilt/shadow.git
+[submodule "shedbuilt-base-layout"]
+	path = shedbuilt-base-layout
+	url = https://github.com/shedbuilt/shedbuilt-base-layout.git
+[submodule "shedbuilt-shell-config"]
+	path = shedbuilt-shell-config
+	url = https://github.com/shedbuilt/shedbuilt-shell-config.git
+[submodule "shedbuilt-system-config"]
+	path = shedbuilt-system-config
+	url = https://github.com/shedbuilt/shedbuilt-system-config.git
+[submodule "shedmake"]
+	path = shedmake
+	url = https://github.com/shedbuilt/shedmake.git
+[submodule "sudo"]
+	path = sudo
+	url = https://github.com/shedbuilt/sudo.git
+[submodule "swig"]
+	path = swig
+	url = https://github.com/shedbuilt/swig.git
+[submodule "systemd"]
+	path = systemd
+	url = https://github.com/shedbuilt/systemd.git
+[submodule "tar"]
+	path = tar
+	url = https://github.com/shedbuilt/tar.git
+[submodule "texinfo"]
+	path = texinfo
+	url = https://github.com/shedbuilt/texinfo.git
+[submodule "tzdata"]
+	path = tzdata
+	url = https://github.com/shedbuilt/tzdata.git
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/shedbuilt/u-boot.git
+[submodule "util-linux"]
+	path = util-linux
+	url = https://github.com/shedbuilt/util-linux.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/shedbuilt/vim.git
+[submodule "wget"]
+	path = wget
+	url = https://github.com/shedbuilt/wget.git
+[submodule "which"]
+	path = which
+	url = https://github.com/shedbuilt/which.git
+[submodule "xz"]
+	path = xz
+	url = https://github.com/shedbuilt/xz.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/shedbuilt/zlib.git
