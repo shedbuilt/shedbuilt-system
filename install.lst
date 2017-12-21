@@ -37,9 +37,9 @@ libcap
 psmisc
 iana-etc
 flex
-shadow
 glibc
 tzdata
+shadow
 libtool
 gdbm
 gperf
