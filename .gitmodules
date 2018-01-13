@@ -346,3 +346,11 @@
 	path = zlib
 	url = https://github.com/shedbuilt/zlib.git
 	branch = .
+[submodule "ninja"]
+	path = ninja
+	url = https://github.com/shedbuilt/ninja.git
+        branch = .
+[submodule "meson"]
+	path = meson
+	url = https://github.com/shedbuilt/meson.git
+        branch = .
