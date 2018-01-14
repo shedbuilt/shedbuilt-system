@@ -354,3 +354,7 @@
 	path = meson
 	url = https://github.com/shedbuilt/meson.git
         branch = .
+[submodule "libelf"]
+	path = libelf
+	url = https://github.com/shedbuilt/libelf.git
+        branch = .
