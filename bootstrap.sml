@@ -55,6 +55,7 @@ gawk --mode bootstrap
 findutils --mode bootstrap
 groff --mode bootstrap
 less --mode bootstrap
+gzip --mode bootstrap
 iproute2 --mode bootstrap
 kbd --mode bootstrap
 libpipeline --mode bootstrap
