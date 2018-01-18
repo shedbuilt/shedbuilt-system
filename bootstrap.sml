@@ -76,7 +76,6 @@ pcre --mode bootstrap
 swig --mode bootstrap
 libfdt --mode bootstrap
 u-boot --mode bootstrap
-linux --mode bootstrap
 openssl --mode bootstrap
 openssh --mode bootstrap
 wget --mode bootstrap
@@ -86,4 +85,5 @@ screen --mode bootstrap
 git --mode bootstrap
 sudo --mode bootstrap
 shedbuilt-shell-config --mode bootstrap
+linux --mode bootstrap
 shedmake --mode bootstrap
