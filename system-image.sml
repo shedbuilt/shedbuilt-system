@@ -32,7 +32,6 @@ psmisc
 iana-etc
 flex
 bash
-shedbuilt-base-layout --skip-install
 gmp
 mpfr
 mpc
