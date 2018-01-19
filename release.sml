@@ -18,8 +18,8 @@ patch
 sed
 tar
 texinfo
-util-linux
-xz
+util-linux --skip-preinstall
+xz --skip-preinstall
 zlib
 readline
 bc
@@ -32,12 +32,12 @@ psmisc
 iana-etc
 flex
 bash
+glibc
+tzdata
 gmp
 mpfr
 mpc
 gcc
-glibc
-tzdata
 shadow
 libtool
 gdbm
