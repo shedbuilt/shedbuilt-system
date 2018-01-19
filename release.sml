@@ -38,7 +38,7 @@ gmp
 mpfr
 mpc
 gcc
-shadow
+shadow --mode bootstrap
 libtool
 gdbm
 gperf
