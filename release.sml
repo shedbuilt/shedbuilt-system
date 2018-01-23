@@ -34,11 +34,11 @@ flex
 bash
 glibc
 tzdata
+shadow
 gmp
 mpfr
 mpc
 gcc
-shadow --mode bootstrap
 libtool
 gdbm
 gperf
