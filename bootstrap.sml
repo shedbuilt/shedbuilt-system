@@ -68,7 +68,6 @@ tar --mode bootstrap
 texinfo --mode bootstrap
 which --mode bootstrap
 libusb --mode bootstrap
-alarm-fake-hwclock --mode bootstrap
 vim --mode bootstrap
 nano --mode bootstrap
 shedbuilt-system-config --mode bootstrap
@@ -84,6 +83,7 @@ curl --mode bootstrap
 ca-certs --mode bootstrap
 screen --mode bootstrap
 git --mode bootstrap
+alarm-fake-hwclock --mode bootstrap
 sudo --mode bootstrap
 shedbuilt-shell-config --mode bootstrap
 linux --mode bootstrap
