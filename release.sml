@@ -73,7 +73,6 @@ libfdt
 u-boot
 linux
 vim
-nano
 which
 libusb
 alarm-fake-hwclock

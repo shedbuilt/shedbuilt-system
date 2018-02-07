@@ -206,10 +206,6 @@
 	path = mpfr
 	url = https://github.com/shedbuilt/mpfr.git
 	branch = .
-[submodule "nano"]
-	path = nano
-	url = https://github.com/shedbuilt/nano.git
-	branch = .
 [submodule "ncurses"]
 	path = ncurses
 	url = https://github.com/shedbuilt/ncurses.git

@@ -69,7 +69,6 @@ texinfo --mode bootstrap
 which --mode bootstrap
 libusb --mode bootstrap
 vim --mode bootstrap
-nano --mode bootstrap
 shedbuilt-system-config --mode bootstrap
 python --mode bootstrap
 pcre --mode bootstrap
