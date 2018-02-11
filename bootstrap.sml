@@ -1,4 +1,4 @@
-shedbuilt-base-layout --mode bootstrap --compression none
+shedbuilt-base-layout --mode bootstrap --archive-compression none
 linux-headers --mode bootstrap
 man-pages --mode bootstrap
 glibc --mode bootstrap
@@ -43,6 +43,7 @@ kmod --mode bootstrap
 gettext --mode bootstrap
 libelf --mode bootstrap
 libffi --mode bootstrap
+openssl --mode bootstrap
 python3 --mode bootstrap
 ninja --mode bootstrap
 meson --mode bootstrap
@@ -75,7 +76,6 @@ pcre --mode bootstrap
 swig --mode bootstrap
 libfdt --mode bootstrap
 u-boot --mode bootstrap
-openssl --mode bootstrap
 openssh --mode bootstrap
 wget --mode bootstrap
 curl --mode bootstrap
