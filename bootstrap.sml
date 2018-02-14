@@ -80,7 +80,6 @@ openssh --mode bootstrap
 wget --mode bootstrap
 curl --mode bootstrap
 ca-certs --mode bootstrap
-screen --mode bootstrap
 git --mode bootstrap
 alarm-fake-hwclock --mode bootstrap
 sudo --mode bootstrap

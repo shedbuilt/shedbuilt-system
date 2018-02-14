@@ -81,7 +81,6 @@ openssh
 wget
 curl
 ca-certs
-screen
 git
 sudo
 shedbuilt-system-config

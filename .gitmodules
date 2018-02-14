@@ -262,10 +262,6 @@
 	path = readline
 	url = https://github.com/shedbuilt/readline.git
 	branch = .
-[submodule "screen"]
-	path = screen
-	url = https://github.com/shedbuilt/screen.git
-	branch = .
 [submodule "sed"]
 	path = sed
 	url = https://github.com/shedbuilt/sed.git
