@@ -74,7 +74,6 @@ shedbuilt-system-config --mode bootstrap
 python --mode bootstrap
 pcre --mode bootstrap
 swig --mode bootstrap
-libfdt --mode bootstrap
 u-boot --mode bootstrap
 openssh --mode bootstrap
 wget --mode bootstrap

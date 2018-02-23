@@ -69,7 +69,6 @@ man-db
 python
 pcre
 swig
-libfdt
 u-boot
 linux
 vim
