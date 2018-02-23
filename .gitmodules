@@ -154,10 +154,6 @@
 	path = libcap
 	url = https://github.com/shedbuilt/libcap.git
 	branch = .
-[submodule "libfdt"]
-	path = libfdt
-	url = https://github.com/shedbuilt/libfdt.git
-	branch = .
 [submodule "libffi"]
 	path = libffi
 	url = https://github.com/shedbuilt/libffi.git
