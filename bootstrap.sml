@@ -12,7 +12,7 @@ binutils --mode bootstrap
 gmp --mode bootstrap
 mpfr --mode bootstrap
 mpc --mode bootstrap
-gcc --mode bootstrap
+gcc --mode bootstrap --jobs 1
 bzip2 --mode bootstrap
 pkg-config --mode bootstrap
 ncurses --mode bootstrap
