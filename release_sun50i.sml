@@ -35,7 +35,7 @@ bash
 glibc
 tzdata
 shadow
-gmp
+gmp --jobs 1
 mpfr
 mpc
 gcc
