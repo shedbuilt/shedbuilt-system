@@ -346,3 +346,11 @@
 	path = libelf
 	url = https://github.com/shedbuilt/libelf.git
         branch = .
+[submodule "dtc"]
+	path = dtc
+	url = https://github.com/shedbuilt/dtc.git
+	branch = .
+[submodule "atf-sunxi"]
+	path = atf-sunxi
+	url = https://github.com/shedbuilt/atf-sunxi.git
+	branch = .
