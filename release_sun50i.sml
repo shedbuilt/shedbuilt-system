@@ -35,10 +35,10 @@ bash
 glibc
 tzdata
 shadow
-gmp --jobs 1
+gmp
 mpfr
 mpc
-gcc
+gcc --jobs 1
 libtool
 gdbm
 gperf
