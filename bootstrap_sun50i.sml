@@ -72,6 +72,8 @@ libusb --mode bootstrap
 vim --mode bootstrap
 shedbuilt-system-config --mode bootstrap
 pcre --mode bootstrap
+swig --mode bootstrap
+python --mode bootstrap
 dtc --mode bootstrap
 atf-sunxi --mode bootstrap
 u-boot --mode bootstrap

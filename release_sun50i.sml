@@ -66,7 +66,9 @@ kbd
 libpipeline
 dbus
 man-db
+python
 pcre
+swig
 dtc
 atf-sunxi
 u-boot
