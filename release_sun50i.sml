@@ -1,4 +1,4 @@
-shedbuilt-base-layout --skip-postinstall
+base-layout --skip-postinstall
 linux-headers
 man-pages
 binutils
@@ -21,7 +21,7 @@ texinfo
 util-linux --skip-preinstall
 xz --skip-preinstall
 zlib
-readline
+readline --skip-postinstall
 bc
 pkg-config
 ncurses
@@ -38,7 +38,7 @@ shadow
 gmp
 mpfr
 mpc
-gcc --jobs 1
+gcc
 libtool
 gdbm
 gperf
@@ -84,6 +84,5 @@ curl
 ca-certs
 git
 sudo
-shedbuilt-system-config
-shedbuilt-shell-config
+base-layout --skip-install --force
 shedmake

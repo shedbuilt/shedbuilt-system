@@ -1,4 +1,4 @@
-shedbuilt-base-layout --mode bootstrap --archive-compression none
+base-layout --mode bootstrap
 linux-headers --mode bootstrap
 man-pages --mode bootstrap
 glibc --mode bootstrap
@@ -70,7 +70,6 @@ texinfo --mode bootstrap
 which --mode bootstrap
 libusb --mode bootstrap
 vim --mode bootstrap
-shedbuilt-system-config --mode bootstrap
 python --mode bootstrap
 pcre --mode bootstrap
 swig --mode bootstrap
@@ -82,6 +81,5 @@ ca-certs --mode bootstrap
 git --mode bootstrap
 alarm-fake-hwclock --mode bootstrap
 sudo --mode bootstrap
-shedbuilt-shell-config --mode bootstrap
 linux --mode bootstrap
 shedmake --mode bootstrap

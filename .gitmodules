@@ -266,18 +266,6 @@
 	path = shadow
 	url = https://github.com/shedbuilt/shadow.git
 	branch = .
-[submodule "shedbuilt-base-layout"]
-	path = shedbuilt-base-layout
-	url = https://github.com/shedbuilt/shedbuilt-base-layout.git
-	branch = .
-[submodule "shedbuilt-shell-config"]
-	path = shedbuilt-shell-config
-	url = https://github.com/shedbuilt/shedbuilt-shell-config.git
-	branch = .
-[submodule "shedbuilt-system-config"]
-	path = shedbuilt-system-config
-	url = https://github.com/shedbuilt/shedbuilt-system-config.git
-	branch = .
 [submodule "shedmake"]
 	path = shedmake
 	url = https://github.com/shedbuilt/shedmake.git
@@ -353,4 +341,8 @@
 [submodule "atf-sunxi"]
 	path = atf-sunxi
 	url = https://github.com/shedbuilt/atf-sunxi.git
+	branch = .
+[submodule "base-layout"]
+	path = base-layout
+	url = https://github.com/shedbuilt/base-layout.git
 	branch = .
