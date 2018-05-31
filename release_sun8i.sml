@@ -31,9 +31,12 @@ libcap
 psmisc
 iana-etc
 flex
-bash
+bash --skip-postinstall
 glibc
 tzdata
+base-layout --skip-install --force
+readline --skip-install --force
+bash --skip-install --force
 shadow
 gmp
 mpfr
@@ -82,5 +85,4 @@ curl
 ca-certs
 git
 sudo
-base-layout --skip-install --force
 shedmake

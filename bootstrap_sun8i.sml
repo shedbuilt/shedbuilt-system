@@ -1,85 +1,85 @@
-base-layout --mode bootstrap
-linux-headers --mode bootstrap
-man-pages --mode bootstrap
-glibc --mode bootstrap
-tzdata --mode bootstrap
-zlib --mode bootstrap
-file --mode bootstrap
-readline --mode bootstrap
-m4 --mode bootstrap
-bc --mode bootstrap
-binutils --mode bootstrap
-gmp --mode bootstrap
-mpfr --mode bootstrap
-mpc --mode bootstrap
-gcc --mode bootstrap --jobs 1
-bzip2 --mode bootstrap
-pkg-config --mode bootstrap
-ncurses --mode bootstrap
-attr --mode bootstrap
-acl --mode bootstrap
-libcap --mode bootstrap
-sed --mode bootstrap
-shadow --mode bootstrap
-psmisc --mode bootstrap
-iana-etc --mode bootstrap
-bison --mode bootstrap
-flex --mode bootstrap
-grep --mode bootstrap
-bash --mode bootstrap
-libtool --mode bootstrap
-gdbm --mode bootstrap
-gperf --mode bootstrap
-expat --mode bootstrap
-inetutils --mode bootstrap
-perl --mode bootstrap
-perl_error --mode bootstrap
-perl_xml-parser --mode bootstrap
-intltool --mode bootstrap
-autoconf --mode bootstrap
-automake --mode bootstrap
-xz --mode bootstrap
-kmod --mode bootstrap
-gettext --mode bootstrap
-libelf --mode bootstrap
-libffi --mode bootstrap
-openssl --mode bootstrap
-python3 --mode bootstrap
-ninja --mode bootstrap
-meson --mode bootstrap
-systemd --mode bootstrap
-procps-ng --mode bootstrap
-e2fsprogs --mode bootstrap
-coreutils --mode bootstrap
-diffutils --mode bootstrap
-gawk --mode bootstrap
-findutils --mode bootstrap
-groff --mode bootstrap
-less --mode bootstrap
-gzip --mode bootstrap
-iproute2 --mode bootstrap
-kbd --mode bootstrap
-libpipeline --mode bootstrap
-make --mode bootstrap
-patch --mode bootstrap
-dbus --mode bootstrap
-util-linux --mode bootstrap
-man-db --mode bootstrap
-tar --mode bootstrap
-texinfo --mode bootstrap
-which --mode bootstrap
-libusb --mode bootstrap
-vim --mode bootstrap
-python --mode bootstrap
-pcre --mode bootstrap
-swig --mode bootstrap
-u-boot --mode bootstrap
-openssh --mode bootstrap
-wget --mode bootstrap
-curl --mode bootstrap
-ca-certs --mode bootstrap
-git --mode bootstrap
-alarm-fake-hwclock --mode bootstrap
-sudo --mode bootstrap
-linux --mode bootstrap
-shedmake --mode bootstrap
+base-layout --options 'bootstrap !docs'
+linux-headers --options 'bootstrap !docs'
+man-pages --options 'bootstrap !docs'
+glibc --options 'bootstrap !docs'
+tzdata --options 'bootstrap !docs'
+zlib --options 'bootstrap !docs'
+file --options 'bootstrap !docs'
+readline --options 'bootstrap !docs'
+m4 --options 'bootstrap !docs'
+bc --options 'bootstrap !docs'
+binutils --options 'bootstrap !docs'
+gmp --options 'bootstrap !docs'
+mpfr --options 'bootstrap !docs'
+mpc --options 'bootstrap !docs'
+gcc --options 'bootstrap !docs'
+bzip2 --options 'bootstrap !docs'
+pkg-config --options 'bootstrap !docs'
+ncurses --options 'bootstrap !docs'
+attr --options 'bootstrap !docs'
+acl --options 'bootstrap !docs'
+libcap --options 'bootstrap !docs'
+sed --options 'bootstrap !docs'
+shadow --options 'bootstrap !docs'
+psmisc --options 'bootstrap !docs'
+iana-etc --options 'bootstrap !docs'
+bison --options 'bootstrap !docs'
+flex --options 'bootstrap !docs'
+grep --options 'bootstrap !docs'
+bash --options 'bootstrap !docs'
+libtool --options 'bootstrap !docs'
+gdbm --options 'bootstrap !docs'
+gperf --options 'bootstrap !docs'
+expat --options 'bootstrap !docs'
+inetutils --options 'bootstrap !docs'
+perl --options 'bootstrap !docs'
+perl_error --options 'bootstrap !docs'
+perl_xml-parser --options 'bootstrap !docs'
+intltool --options 'bootstrap !docs'
+autoconf --options 'bootstrap !docs'
+automake --options 'bootstrap !docs'
+xz --options 'bootstrap !docs'
+kmod --options 'bootstrap !docs'
+gettext --options 'bootstrap !docs'
+libelf --options 'bootstrap !docs'
+libffi --options 'bootstrap !docs'
+openssl --options 'bootstrap !docs'
+python3 --options 'bootstrap !docs'
+ninja --options 'bootstrap !docs'
+meson --options 'bootstrap !docs'
+systemd --options 'bootstrap !docs'
+procps-ng --options 'bootstrap !docs'
+e2fsprogs --options 'bootstrap !docs'
+coreutils --options 'bootstrap !docs'
+diffutils --options 'bootstrap !docs'
+gawk --options 'bootstrap !docs'
+findutils --options 'bootstrap !docs'
+groff --options 'bootstrap !docs'
+less --options 'bootstrap !docs'
+gzip --options 'bootstrap !docs'
+iproute2 --options 'bootstrap !docs'
+kbd --options 'bootstrap !docs'
+libpipeline --options 'bootstrap !docs'
+make --options 'bootstrap !docs'
+patch --options 'bootstrap !docs'
+dbus --options 'bootstrap !docs'
+util-linux --options 'bootstrap !docs'
+man-db --options 'bootstrap !docs'
+tar --options 'bootstrap !docs'
+texinfo --options 'bootstrap !docs'
+which --options 'bootstrap !docs'
+libusb --options 'bootstrap !docs'
+vim --options 'bootstrap !docs'
+python --options 'bootstrap !docs'
+pcre --options 'bootstrap !docs'
+swig --options 'bootstrap !docs'
+u-boot --options 'bootstrap !docs'
+openssh --options 'bootstrap !docs'
+wget --options 'bootstrap !docs'
+curl --options 'bootstrap !docs'
+ca-certs --options 'bootstrap !docs'
+git --options 'bootstrap !docs'
+alarm-fake-hwclock --options 'bootstrap !docs'
+sudo --options 'bootstrap !docs'
+linux --options 'bootstrap !docs'
+shedmake --options 'bootstrap !docs'
