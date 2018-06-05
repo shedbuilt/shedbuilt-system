@@ -21,7 +21,7 @@ texinfo
 util-linux --skip-preinstall
 xz --skip-preinstall
 zlib
-readline --skip-postinstall
+readline
 bc
 pkg-config
 ncurses
@@ -84,5 +84,4 @@ curl
 ca-certs
 git
 sudo
-base-layout --skip-install --force
 shedmake

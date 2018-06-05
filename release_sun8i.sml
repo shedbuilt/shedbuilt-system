@@ -21,7 +21,7 @@ texinfo
 util-linux --skip-preinstall
 xz --skip-preinstall
 zlib
-readline --skip-postinstall
+readline
 bc
 pkg-config
 ncurses
@@ -31,12 +31,9 @@ libcap
 psmisc
 iana-etc
 flex
-bash --skip-postinstall
+bash
 glibc
 tzdata
-base-layout --skip-install --force
-readline --skip-install --force
-bash --skip-install --force
 shadow
 gmp
 mpfr

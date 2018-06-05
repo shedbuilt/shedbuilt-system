@@ -1,85 +1,85 @@
-base-layout --options 'bootstrap !docs'
-linux-headers --options 'bootstrap !docs'
-man-pages --options 'bootstrap !docs'
-glibc --options 'bootstrap !docs'
-tzdata --options 'bootstrap !docs'
-zlib --options 'bootstrap !docs'
-file --options 'bootstrap !docs'
-readline --options 'bootstrap !docs'
-m4 --options 'bootstrap !docs'
-bc --options 'bootstrap !docs'
-binutils --options 'bootstrap !docs'
-gmp --options 'bootstrap !docs'
-mpfr --options 'bootstrap !docs'
-mpc --options 'bootstrap !docs'
-gcc --options 'bootstrap !docs'
-bzip2 --options 'bootstrap !docs'
-pkg-config --options 'bootstrap !docs'
-ncurses --options 'bootstrap !docs'
-attr --options 'bootstrap !docs'
-acl --options 'bootstrap !docs'
-libcap --options 'bootstrap !docs'
-sed --options 'bootstrap !docs'
-shadow --options 'bootstrap !docs'
-psmisc --options 'bootstrap !docs'
-iana-etc --options 'bootstrap !docs'
-bison --options 'bootstrap !docs'
-flex --options 'bootstrap !docs'
-grep --options 'bootstrap !docs'
-bash --options 'bootstrap !docs'
-libtool --options 'bootstrap !docs'
-gdbm --options 'bootstrap !docs'
-gperf --options 'bootstrap !docs'
-expat --options 'bootstrap !docs'
-inetutils --options 'bootstrap !docs'
-perl --options 'bootstrap !docs'
-perl_error --options 'bootstrap !docs'
-perl_xml-parser --options 'bootstrap !docs'
-intltool --options 'bootstrap !docs'
-autoconf --options 'bootstrap !docs'
-automake --options 'bootstrap !docs'
-xz --options 'bootstrap !docs'
-kmod --options 'bootstrap !docs'
-gettext --options 'bootstrap !docs'
-libelf --options 'bootstrap !docs'
-libffi --options 'bootstrap !docs'
-openssl --options 'bootstrap !docs'
-python3 --options 'bootstrap !docs'
-ninja --options 'bootstrap !docs'
-meson --options 'bootstrap !docs'
-systemd --options 'bootstrap !docs'
-procps-ng --options 'bootstrap !docs'
-e2fsprogs --options 'bootstrap !docs'
-coreutils --options 'bootstrap !docs'
-diffutils --options 'bootstrap !docs'
-gawk --options 'bootstrap !docs'
-findutils --options 'bootstrap !docs'
-groff --options 'bootstrap !docs'
-less --options 'bootstrap !docs'
-gzip --options 'bootstrap !docs'
-iproute2 --options 'bootstrap !docs'
-kbd --options 'bootstrap !docs'
-libpipeline --options 'bootstrap !docs'
-make --options 'bootstrap !docs'
-patch --options 'bootstrap !docs'
-dbus --options 'bootstrap !docs'
-util-linux --options 'bootstrap !docs'
-man-db --options 'bootstrap !docs'
-tar --options 'bootstrap !docs'
-texinfo --options 'bootstrap !docs'
-which --options 'bootstrap !docs'
-libusb --options 'bootstrap !docs'
-vim --options 'bootstrap !docs'
-python --options 'bootstrap !docs'
-pcre --options 'bootstrap !docs'
-swig --options 'bootstrap !docs'
-u-boot --options 'bootstrap !docs'
-openssh --options 'bootstrap !docs'
-wget --options 'bootstrap !docs'
-curl --options 'bootstrap !docs'
-ca-certs --options 'bootstrap !docs'
-git --options 'bootstrap !docs'
-alarm-fake-hwclock --options 'bootstrap !docs'
-sudo --options 'bootstrap !docs'
-linux --options 'bootstrap !docs'
-shedmake --options 'bootstrap !docs'
+base-layout
+linux-headers
+man-pages
+glibc
+tzdata
+zlib
+file
+readline
+m4
+bc
+binutils --jobs 1
+gmp
+mpfr
+mpc
+gcc
+bzip2
+pkg-config
+ncurses
+attr
+acl
+libcap
+sed
+shadow
+psmisc
+iana-etc
+bison
+flex
+grep
+bash
+libtool
+gdbm
+gperf
+expat
+inetutils
+perl
+perl_error
+perl_xml-parser
+intltool
+autoconf
+automake
+xz
+kmod
+gettext
+libelf
+libffi
+openssl
+python3
+ninja
+meson
+systemd
+procps-ng
+e2fsprogs
+coreutils
+diffutils
+gawk
+findutils
+groff
+less
+gzip
+iproute2
+kbd
+libpipeline
+make
+patch
+dbus
+util-linux
+man-db
+tar
+texinfo
+which
+libusb
+vim
+python
+pcre
+swig
+u-boot
+openssh
+wget
+curl
+ca-certs
+git
+alarm-fake-hwclock
+sudo
+linux
+shedmake
