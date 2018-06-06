@@ -1,7 +1,7 @@
 base-layout --skip-postinstall
 linux-headers
 man-pages
-binutils
+binutils --jobs 1
 coreutils
 diffutils
 file
