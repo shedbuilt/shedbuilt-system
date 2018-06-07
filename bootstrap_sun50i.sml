@@ -68,7 +68,6 @@ man-db
 tar
 texinfo
 which
-libusb
 vim
 pcre
 swig

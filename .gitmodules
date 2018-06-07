@@ -166,10 +166,6 @@
 	path = libtool
 	url = https://github.com/shedbuilt/libtool.git
 	branch = .
-[submodule "libusb"]
-	path = libusb
-	url = https://github.com/shedbuilt/libusb.git
-	branch = .
 [submodule "linux"]
 	path = linux
 	url = https://github.com/shedbuilt/linux.git

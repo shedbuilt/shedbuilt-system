@@ -53,6 +53,7 @@ automake
 kmod
 libelf
 libffi
+openssl
 python3
 ninja
 meson
@@ -75,9 +76,7 @@ u-boot
 linux
 vim
 which
-libusb
 alarm-fake-hwclock
-openssl
 openssh
 wget
 curl
