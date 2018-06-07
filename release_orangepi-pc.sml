@@ -1,1 +1,0 @@
-release_sun8i.sml

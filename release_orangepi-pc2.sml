@@ -1,1 +1,0 @@
-release_sun50i.sml
