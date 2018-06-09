@@ -38,7 +38,7 @@ shadow
 gmp
 mpfr
 mpc
-gcc
+gcc --jobs 1
 libtool
 gdbm
 gperf

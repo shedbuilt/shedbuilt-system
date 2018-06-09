@@ -12,7 +12,7 @@ binutils --jobs 1
 gmp
 mpfr
 mpc
-gcc
+gcc --jobs 1
 bzip2
 pkg-config
 ncurses
