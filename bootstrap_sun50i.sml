@@ -8,7 +8,7 @@ file
 readline
 m4
 bc
-binutils
+binutils --jobs 1
 gmp
 mpfr
 mpc

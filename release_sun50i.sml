@@ -1,7 +1,7 @@
 base-layout --skip-postinstall
 linux-headers
 man-pages
-binutils
+binutils --jobs 1
 coreutils
 diffutils
 file
@@ -38,7 +38,7 @@ shadow
 gmp
 mpfr
 mpc
-gcc
+gcc --jobs 1
 libtool
 gdbm
 gperf
