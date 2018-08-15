@@ -67,14 +67,12 @@ kbd
 libpipeline
 dbus
 man-db
-python
 pcre
 swig
 u-boot
 linux
 vim
 which
-alarm-fake-hwclock
 openssh
 wget
 curl

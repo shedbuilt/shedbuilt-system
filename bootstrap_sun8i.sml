@@ -69,7 +69,6 @@ tar
 texinfo
 which
 vim
-python
 pcre
 swig
 u-boot
@@ -78,7 +77,6 @@ wget
 curl
 ca-certs
 git
-alarm-fake-hwclock
 sudo
 linux
 shedmake

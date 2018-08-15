@@ -71,7 +71,6 @@ which
 vim
 pcre
 swig
-python
 dtc
 atf-sunxi
 u-boot
@@ -80,7 +79,6 @@ wget
 curl
 ca-certs
 git
-alarm-fake-hwclock
 sudo
 linux
 shedmake
