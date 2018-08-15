@@ -2,10 +2,6 @@
 	path = acl
 	url = https://github.com/shedbuilt/acl.git
 	branch = .
-[submodule "alarm-fake-hwclock"]
-	path = alarm-fake-hwclock
-	url = https://github.com/shedbuilt/alarm-fake-hwclock.git
-	branch = .
 [submodule "attr"]
 	path = attr
 	url = https://github.com/shedbuilt/attr.git
@@ -241,10 +237,6 @@
 [submodule "psmisc"]
 	path = psmisc
 	url = https://github.com/shedbuilt/psmisc.git
-	branch = .
-[submodule "python"]
-	path = python
-	url = https://github.com/shedbuilt/python.git
 	branch = .
 [submodule "python3"]
 	path = python3
