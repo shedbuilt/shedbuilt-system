@@ -1,1 +1,0 @@
-bootstrap_sun50i.sml
