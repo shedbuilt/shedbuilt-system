@@ -158,3 +158,19 @@
 	path = base-layout
 	url = https://github.com/shedbuilt/base-layout.git
 	branch = .
+[submodule "libdrm"]
+	path = libdrm
+	url = https://github.com/shedbuilt/libdrm.git
+	branch = .
+[submodule "mtdev"]
+	path = mtdev
+	url = https://github.com/shedbuilt/mtdev.git
+	branch = .
+[submodule "xkeyboard-config"]
+	path = xkeyboard-config
+	url = https://github.com/shedbuilt/xkeyboard-config.git
+	branch = .
+[submodule "libevdev"]
+	path = libevdev
+	url = https://github.com/shedbuilt/libevdev.git
+	branch = .
