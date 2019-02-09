@@ -174,3 +174,7 @@
 	path = libevdev
 	url = https://github.com/shedbuilt/libevdev.git
 	branch = .
+[submodule "pam"]
+	path = pam
+	url = https://github.com/shedbuilt/pam.git
+	branch = blank
