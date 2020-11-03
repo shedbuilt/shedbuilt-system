@@ -150,10 +150,6 @@
 	path = dtc
 	url = https://github.com/shedbuilt/dtc.git
 	branch = .
-[submodule "atf-sunxi"]
-	path = atf-sunxi
-	url = https://github.com/shedbuilt/atf-sunxi.git
-	branch = .
 [submodule "base-layout"]
 	path = base-layout
 	url = https://github.com/shedbuilt/base-layout.git
@@ -177,4 +173,8 @@
 [submodule "pam"]
 	path = pam
 	url = https://github.com/shedbuilt/pam.git
+	branch = .
+[submodule "atf"]
+	path = atf
+	url = https://github.com/shedbuilt/atf.git
 	branch = .
